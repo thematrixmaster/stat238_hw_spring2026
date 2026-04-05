@@ -1,7 +1,3 @@
-# Attempt at a cleaner version of the kidney cancer data from section 2.7 of Bayesian Data Analysis, 3rd edition (Gelman et al.)
-# Based on http://www.stat.columbia.edu/~gelman/book/data/cancer/
-# Columns 4 to 12 correspond to 1980-84; columns 13 to 21 to 1985-89
-# Robin Ryder, 12 September 2019
 "","state","Location","fips","dc","dcV","pop","popV","aadc","aadcV","dcC","dcCV","good","dc.2","dcV.2","pop.2","popV.2","aadc.2","aadcV.2","dcC.2","dcCV.2","good.2"
 "108","ALABAMA","Autauga County, Alabama",1001,2,"VALID",61921,"VALID",3.3,"UNRELIABLE",3.2,"UNRELIABLE",1,1,"VALID",64915,"VALID",1.7,"UNRELIABLE",1.5,"UNRELIABLE",1
 "117","ALABAMA","Baldwin County, Alabama",1003,7,"VALID",170945,"VALID",3.5,"UNRELIABLE",4.1,"UNRELIABLE",1,15,"VALID",195253,"VALID",6.3,"UNRELIABLE",7.7,"UNRELIABLE",1
