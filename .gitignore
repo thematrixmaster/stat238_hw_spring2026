@@ -1,2 +1,9 @@
 .DS_Store
 __pycache__
+data/Ala2TSF300.npy
+.venv
+external/
+notebooks/checkpoints/
+notebooks/runs/
+notebooks/main.py
+notebooks/final.py
